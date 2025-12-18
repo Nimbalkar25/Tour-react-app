@@ -34,7 +34,7 @@ const data = [
         name: "Hampi",
         info: "Hampi is a city in the Vijayanagara district in the Indian state of Karnataka. Located along the Tungabhadra River in the east and center part of the state, Hampi is near the city of Hospet. It is famous for hosting the Hampi Group of Monuments with the Virupaksha Temple, a UNESCO World Heritage Site.",
         image: "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxiw3J1hm1e2ypZzjoQZOh9zGZwrI0o9yLEI4og75jX6yJt7KjhcsjeW-nr3glGm1abQJbMxII7_4NFgK7-wshau4VRDliKS9cuJWwcKFF5-UpwXIBZCLoXjv5hlOqddo07KHqW=w675-h390-n-k-no",
-        price: "₹ 35,769",
+        price: "₹ 18,999",
     },
     {
         id: 6,
@@ -48,7 +48,7 @@ const data = [
         name: "Kolhapur",
         info: "Kolhapur is a city on the banks of the Panchaganga River, in the west Indian state of Maharashtra. It’s known for its temples, like the ancient Mahalakshmi Temple, a Hindu pilgrimage site. The Bhavani Mandap is an imposing old palace with a small museum displaying stuffed wild animals. Close by, Rankala Lake is surrounded by gardens. The hilltop Jyotiba Temple complex is on the city's outskirts.",
         image: "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT_3SSywhh1WK014R7Y8XhXHY1hAgqbGwX9ggMtdDAwLW4gNAMZpl5d656k7nwS-v9lzkxDd-bZUjTPBvG_Mc-22i8&s=19",
-        price: "₹ 35,769",
+        price: "₹ 22,879",
     },
 ]
 

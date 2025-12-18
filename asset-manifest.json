@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tourismreactapp/static/css/main.0ce6b5dd.css",
-    "main.js": "/tourismreactapp/static/js/main.b79e8842.js",
-    "static/js/453.2197a531.chunk.js": "/tourismreactapp/static/js/453.2197a531.chunk.js",
-    "static/media/agra.avif": "/tourismreactapp/static/media/agra.fc9d740d754d161cd419.avif",
-    "index.html": "/tourismreactapp/index.html",
-    "main.0ce6b5dd.css.map": "/tourismreactapp/static/css/main.0ce6b5dd.css.map",
-    "main.b79e8842.js.map": "/tourismreactapp/static/js/main.b79e8842.js.map",
-    "453.2197a531.chunk.js.map": "/tourismreactapp/static/js/453.2197a531.chunk.js.map"
+    "main.css": "/Tour-react-app/static/css/main.0ce6b5dd.css",
+    "main.js": "/Tour-react-app/static/js/main.7f967480.js",
+    "static/js/453.2197a531.chunk.js": "/Tour-react-app/static/js/453.2197a531.chunk.js",
+    "static/media/agra.avif": "/Tour-react-app/static/media/agra.fc9d740d754d161cd419.avif",
+    "index.html": "/Tour-react-app/index.html",
+    "main.0ce6b5dd.css.map": "/Tour-react-app/static/css/main.0ce6b5dd.css.map",
+    "main.7f967480.js.map": "/Tour-react-app/static/js/main.7f967480.js.map",
+    "453.2197a531.chunk.js.map": "/Tour-react-app/static/js/453.2197a531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ce6b5dd.css",
-    "static/js/main.b79e8842.js"
+    "static/js/main.7f967480.js"
   ]
 }
